@@ -1,9 +1,13 @@
 _repo: Fundamental-Philosophy-Vol-2-of-2_49244
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Brownson, Henry F.
     gutenberg_agent_id: '45218'
     url: http://www.gutenberg.org/2009/agents/45218
+covers:
+- cover_type: archival
+  image_path: 49244-h/images/cover.jpg
 creator:
   author:
     agent_name: Balmes, Jaime Luciano
@@ -14,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5162
     wikipedia: http://en.wikipedia.org/wiki/Jaime_Lucio_Balmes
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49244#Fundamental-Philosophy-Vol-2-of-2
 gutenberg_issued: '2015-06-20'
 gutenberg_type: Text
 identifiers:
